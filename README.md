@@ -703,6 +703,7 @@ Services to securely store your Docker images.
 -   [Koyeb](https://www.koyeb.com/) :heavy_dollar_sign: - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery.
 -   [OpenFaaS](https://github.com/openfaas/faas) - A complete serverless functions framework for Docker and Kubernetes. By [OpenFaaS](https://github.com/openfaas)
 -   [SCAR](https://github.com/grycap/scar) - Serverless Container-aware Architectures (SCAR) is a serverless framework that allows easy deployment and execution of containers (e.g. Docker) in Serverless environments (e.g. Lambda) by [@grycap](https://github.com/grycap)
+-   [HyperAgency](https://github.com/vuics/h9y) - Serverless agentic AI operating system (h9y.ai) that runs AI agents in Docker & K8s. Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
 
 ### Testing
 
