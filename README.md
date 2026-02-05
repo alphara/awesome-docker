@@ -699,6 +699,7 @@ Services to securely store your Docker images.
 -   [Apache OpenWhisk](https://github.com/apache/openwhisk) - a serverless, open source cloud platform that executes functions in response to events at any scale. By [@apache](https://github.com/apache)
 -   [Docker-Lambda](https://github.com/lambci/docker-lambda) - :skull: Docker images and test runners that replicate the live AWS Lambda environment. By [@lamb-ci](https://github.com/lambci)
 -   [Funker](https://github.com/bfirsh/funker-example-voting-app) - Functions as Docker containers example voting app. By [@bfirsh](https://github.com/bfirsh)
+-   [HyperAgency](https://github.com/vuics/h9y) - Serverless agentic AI operating system (h9y.ai) that runs AI agents in Docker & K8s. Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
 -   [IronFunctions](https://github.com/iron-io/functions) - The serverless microservices platform FaaS (Functions as a Service) which uses Docker containers to run Any language or AWS Lambda functions
 -   [Koyeb](https://www.koyeb.com/) :heavy_dollar_sign: - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery.
 -   [OpenFaaS](https://github.com/openfaas/faas) - A complete serverless functions framework for Docker and Kubernetes. By [OpenFaaS](https://github.com/openfaas)
